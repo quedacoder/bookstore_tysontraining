@@ -1,0 +1,26 @@
+.captionHeader {
+	caption-side: top; 
+	text-align:center;
+	color: black;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.link {
+	text-align: center;
+}
+
+.header {
+	margin: 2% 0;
+	text-align: center;
+}
+
+a:link, a:visited, a:hover, a:active {
+	color: green
+}
+
+.formBorder {
+	border: 1px solid #dee2e6;
+    text-align: center;
+    padding: 2% 0;
+}
